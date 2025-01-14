@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 contract Arithmetic {
     function add(uint a, uint b) public pure returns (uint) {
-        //complete this
+        //complete this function
         return a+b;
     }
 
